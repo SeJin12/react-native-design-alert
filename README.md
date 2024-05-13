@@ -59,3 +59,13 @@ interface Props {
     buttonConfirmBackgroundColor?: ColorValue
 }
 ```
+
+### image
+
+![image](https://github.com/SeJin12/react-native-design-alert/assets/35497759/a81e076d-ad05-4d3c-b2f4-fa7252cd4970)
+
+![image](https://github.com/SeJin12/react-native-design-alert/assets/35497759/54c6bd1a-52d0-4c8b-92b3-3ec33eaa3487)
+
+![image](https://github.com/SeJin12/react-native-design-alert/assets/35497759/4daa6f96-9112-46f5-85eb-036a56e72ae4)
+
+![image](https://github.com/SeJin12/react-native-design-alert/assets/35497759/022c4516-3961-4758-be86-5fee46d7909d)
